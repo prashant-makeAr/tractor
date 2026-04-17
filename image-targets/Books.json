@@ -1,0 +1,18 @@
+{
+  "imagePath": "image-targets/Books_target.png",
+  "name": "Books",
+  "type": "PLANAR",
+  "properties": {
+    "top": 268,
+    "left": 0,
+    "width": 1097,
+    "height": 1463,
+    "isRotated": true,
+    "originalWidth": 1097,
+    "originalHeight": 2000
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1711788027064,
+  "updated": 1711788035849
+}

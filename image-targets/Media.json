@@ -1,0 +1,18 @@
+{
+  "imagePath": "image-targets/Media_target.jpeg",
+  "name": "Media",
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 21,
+    "width": 711,
+    "height": 948,
+    "isRotated": true,
+    "originalWidth": 752,
+    "originalHeight": 948
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1711110989367,
+  "updated": 1711110989367
+}
