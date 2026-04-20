@@ -1,0 +1,24 @@
+{
+  "imagePath": "image-targets/tractor-target_luminance.png",
+  "name": "tractor-target",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 43,
+    "width": 529,
+    "height": 705,
+    "isRotated": true,
+    "originalWidth": 529,
+    "originalHeight": 790
+  },
+  "resources": {
+    "originalImage": "tractor-target_original.png",
+    "croppedImage": "tractor-target_cropped.png",
+    "thumbnailImage": "tractor-target_thumbnail.png",
+    "luminanceImage": "tractor-target_luminance.png"
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1776688121502,
+  "updated": 1776688121502
+}
